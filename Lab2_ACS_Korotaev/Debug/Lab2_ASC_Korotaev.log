@@ -1,0 +1,6 @@
+﻿  Lab2_ASC_Korotaev.cpp
+C:\Users\eek\source\repos\Lab2_ASC_Korotaev\Lab2_ASC_Korotaev.cpp(16,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\eek\source\repos\Lab2_ASC_Korotaev\Lab2_ASC_Korotaev.cpp(25,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\eek\source\repos\Lab2_ASC_Korotaev\Lab2_ASC_Korotaev.cpp(60,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\eek\source\repos\Lab2_ASC_Korotaev\Lab2_ASC_Korotaev.cpp(147,20): warning C4018:  <: несоответствие типов со знаком и без знака
+  Lab2_ASC_Korotaev.vcxproj -> C:\Users\eek\source\repos\Lab2_ASC_Korotaev\Debug\Lab2_ASC_Korotaev.exe
